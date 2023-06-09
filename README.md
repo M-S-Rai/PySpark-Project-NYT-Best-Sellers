@@ -4,8 +4,11 @@ This repository contains a notebook for analyzing New York Times Bestselling boo
 
 ## Contents
 Mankabir Rai - NYT Books.ipynb: Jupyter Notebook containing the analysis code.
+
 nyt2.json: JSON file containing the dataset used for the analysis.
+
 README.md: Readme file providing an overview of the project and instructions.
+
 
 ### Analysis Questions
 
